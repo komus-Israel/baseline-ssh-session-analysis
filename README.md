@@ -14,4 +14,4 @@ Packet capture analysis of an SSH session between a client (172.18.3.192) and se
 
 The analysis also investigates a TCP retransmission observed during the key exchange, which indicates a possible **spurious retransmission** (confirmed via D-SACK) rather than actual packet loss.
 
-📄 **[Full Analysis](https://docs.google.com/document/d/1b63c6KGsGmSbOB2Ourc4M4PqfGvFth3ek5vmj7DNNMY/edit?tab=t.0)**
+📄 **[Full Analysis](https://docs.google.com/document/d/1b63c6KGsGmSbOB2Ourc4M4PqfGvFth3ek5vmj7DNNMY/edit?usp=sharing)**
