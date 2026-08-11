@@ -38,6 +38,11 @@ Actual key exchange and new keys derivation
 
 ![Hybrid Key Exchange And New Keys](./screenshots/hybrid-kex.png)
 
+### Transmitted Encrypted Packets
+Encrypted packets
+
+![Encrypted packets](./screenshots/encrypted-packets.png)
+
 ### TCP Retransmission
 Spurious retransmission indicated via D-SACK
 
